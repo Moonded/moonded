@@ -1,8 +1,7 @@
 # Hi, I'm Moonded! 👋
+ 
+I'm the Community Manager and a contributee to RED Modding. A lot of my repositories are hidden, due to work i do in them, is not allowed to be publicly available, but feel free to take a look at the available repositories. 
 
-I'm a content creator, community manager and member of Eagle One. 
-I mainly work on stuff that ain't appearing here, so visit my social media.
+Feel free to contact me if you have any questions, best way to do that is to use one of my social media profiles or give me a DM on discord: Moonded#0001
 
-My current projects is the website of Red modding Tools (https://redmodding.org), where i also manage the community.
-
-Until then, cheers! 
+Anyway, have fun looking around! 
